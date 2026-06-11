@@ -1,0 +1,19 @@
+{
+  "name": "ACTB Research Terminal",
+  "short_name": "ACTB",
+  "description": "AUD/CNH research dashboard mobile shell.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

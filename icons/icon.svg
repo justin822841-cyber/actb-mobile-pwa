@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <path d="M116 148h280v216H116z" fill="#f8fafc"/>
+  <path d="M148 320h216" stroke="#ef4444" stroke-width="28" stroke-linecap="round"/>
+  <path d="M148 256h96l36-72 44 144 36-72h4" fill="none" stroke="#2563eb" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="424" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="800" fill="#f8fafc">ACTB</text>
+</svg>
