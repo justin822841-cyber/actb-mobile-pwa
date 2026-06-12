@@ -1,4 +1,4 @@
-const CACHE_NAME = "actb-mobile-v1";
+const CACHE_NAME = "actb-mobile-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -26,6 +26,11 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) {
+    return;
+  }
+
+  if (requestUrl.pathname.endsWith("/summary.json")) {
+    event.respondWith(fetch(event.request).catch(() => caches.match(event.request)));
     return;
   }
 
