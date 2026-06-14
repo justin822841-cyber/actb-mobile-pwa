@@ -105,8 +105,9 @@
     "stats": "已平仓 13 笔，胜率 62%，平均收益 +0.51%"
   },
   "actions": {
-    "refresh_url": "https://github.com/justin822841-cyber/aud_cnh_brain/actions/workflows/actb-cloud-monitor.yml",
+    "actions_url": "https://github.com/justin822841-cyber/aud_cnh_brain/actions/workflows/actb-cloud-monitor.yml",
+    "refresh_url": "",
     "predict_url": "https://github.com/justin822841-cyber/aud_cnh_brain/actions/workflows/actb-cloud-monitor.yml",
-    "workflow_hint": "打开后选择 Run workflow；mode=monitor 为刷新/运行，mode=brief 为发送简报。"
+    "workflow_hint": "刷新摘要只重新读取当前数据；如需手动跑云端，请打开 Actions 后选择 Run workflow。"
   }
 }

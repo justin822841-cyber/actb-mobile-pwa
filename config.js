@@ -1,3 +1,3 @@
 window.ACTB_MOBILE_CONFIG = {
-  dataUrl: "./summary.json",
+  dataUrl: new URL("./summary.json", document.currentScript.src).toString(),
 };

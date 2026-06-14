@@ -125,15 +125,16 @@
   }
 
   function renderActions(actions) {
+    const actionsUrl = text(actions.actions_url || actions.refresh_url);
     return `
       <section class="panel actions">
         <div class="section-title">
           <h2>操作</h2>
-          <span>安全跳转</span>
+          <span>当前页面刷新</span>
         </div>
         <div class="button-row">
-          <a class="button" href="${text(actions.refresh_url)}" target="_blank" rel="noreferrer">刷新/运行</a>
-          <a class="button secondary" href="${text(actions.predict_url)}" target="_blank" rel="noreferrer">生成简报</a>
+          <button class="button" type="button" data-refresh-summary>刷新摘要</button>
+          <a class="button secondary" href="${actionsUrl}" target="_blank" rel="noreferrer">打开 Actions</a>
         </div>
         <p class="hint">${text(actions.workflow_hint)}</p>
       </section>
@@ -169,6 +170,15 @@
       `;
     }
   }
+
+  document.addEventListener("click", (event) => {
+    const target = event.target;
+    if (!(target instanceof Element) || !target.matches("[data-refresh-summary]")) {
+      return;
+    }
+    target.textContent = "刷新中...";
+    load();
+  });
 
   load();
 })();

@@ -1,7 +1,8 @@
-const CACHE_NAME = "actb-mobile-v2";
+const CACHE_NAME = "actb-mobile-v3";
 const ASSETS = [
   "./",
   "./index.html",
+  "./404.html",
   "./app.js",
   "./config.js",
   "./styles.css",

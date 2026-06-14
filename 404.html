@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f8fafc" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="ACTB" />
+    <title>ACTB Mobile</title>
+    <link rel="manifest" href="/actb-mobile-pwa/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/actb-mobile-pwa/icons/icon.svg" />
+    <link rel="icon" href="/actb-mobile-pwa/icons/icon.svg" />
+    <link rel="stylesheet" href="/actb-mobile-pwa/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="mark">FX</div>
+        <div>
+          <strong>ACTB</strong>
+          <span>AUD/CNH</span>
+        </div>
+      </div>
+      <small id="updated">连接中</small>
+    </header>
+
+    <main id="app">
+      <section class="status">
+        <div class="mark">FX</div>
+        <h1>ACTB Mobile</h1>
+        <p>正在读取手机摘要。</p>
+      </section>
+    </main>
+
+    <script src="/actb-mobile-pwa/config.js"></script>
+    <script src="/actb-mobile-pwa/app.js"></script>
+  </body>
+</html>
