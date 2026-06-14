@@ -125,16 +125,14 @@
   }
 
   function renderActions(actions) {
-    const actionsUrl = text(actions.actions_url || actions.refresh_url);
     return `
       <section class="panel actions">
         <div class="section-title">
           <h2>操作</h2>
-          <span>当前页面刷新</span>
+          <span>读取已发布摘要</span>
         </div>
         <div class="button-row">
           <button class="button" type="button" data-refresh-summary>刷新摘要</button>
-          <a class="button secondary" href="${actionsUrl}" target="_blank" rel="noreferrer">打开 Actions</a>
         </div>
         <p class="hint">${text(actions.workflow_hint)}</p>
       </section>
