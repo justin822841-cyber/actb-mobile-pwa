@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-17 15:25 Melbourne",
+  "generated_at": "2026-06-17 16:39 Melbourne",
   "data_date": "2026-06-17",
-  "latest_price": "4.77231",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
+  "latest_price": "4.76943",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度66%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "36%",
+      "direction": "看跌",
+      "direction_raw": "bearish",
+      "suitability": "谨慎",
+      "confidence": "66%",
       "risk": "预测风险较高",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度66%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "36%",
+      "direction": "看跌",
+      "direction_raw": "bearish",
+      "suitability": "谨慎",
+      "confidence": "66%",
       "risk": "预测风险较高",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度66%。"
     },
     {
       "key": "7D",
@@ -49,21 +49,21 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-17 04:00 FOMC Rate Decision（高影响，Federal Reserve）。市场共识：Previous 5.122% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去13次类似rba弱于预期事件，事件公布当天平…",
     "next_event": "2026-06-17 04:00 FOMC Rate Decision（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-17 AUD/CNH -0.14%",
+    "latest_move": "2026-06-17 AUD/CNH -0.20%",
     "historical": "类似事件样本 13，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.77205，开仓 06-17 15:25，止损 4.78276，止盈 4.75598",
+    "active": "看跌/SHORT @ 4.76915，开仓 06-17 16:38，止损 4.77995，止盈 4.75295",
     "recent": [
       {
-        "time": "06-17 15:25",
+        "time": "06-17 16:38",
         "direction": "看跌/SHORT",
         "status": "持仓中",
-        "entry": "4.77205",
+        "entry": "4.76915",
         "exit": "—",
         "pnl_pct": "+0.00%",
-        "reason": "AUD/USD (0.70646) below MA20 (0.71121) AND USD/CNH (6.7552) below MA20 (6.7751) → bearish…"
+        "reason": "AUD/USD (0.70597) below MA20 (0.71118) AND USD/CNH (6.7559) below MA20 (6.7751) → bearish…"
       },
       {
         "time": "06-16 12:32",
