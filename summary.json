@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-18 09:00 Melbourne",
+  "generated_at": "2026-06-18 09:10 Melbourne",
   "data_date": "2026-06-17",
-  "latest_price": "4.74189",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度55%。",
+  "latest_price": "4.77430",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度39%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看跌",
-      "direction_raw": "bearish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "39%",
       "risk": "宏观事件风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度55%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度39%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看跌",
-      "direction_raw": "bearish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "39%",
       "risk": "宏观事件风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度55%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度39%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     },
     {
       "key": "30D",
@@ -40,17 +40,17 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.78%，主导腿为AUD/USD。重点事件：2026-06-17 04:00 FOMC Rate Decision（高影响，Federal Reserve）。市场反应更像“美国数据强/偏鹰派”，通常支持美元并压低AUD/CNH。预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去13次类似rba弱于预期…",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响，Federal Reserve Monet…",
     "next_event": "2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响）",
-    "shock_detected": true,
-    "latest_move": "2026-06-17 AUD/CNH -0.78%",
-    "historical": "类似事件样本 13，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "shock_detected": false,
+    "latest_move": "2026-06-17 AUD/CNH -0.10%",
+    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
