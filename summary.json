@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18 21:42 Melbourne",
+  "generated_at": "2026-06-19 09:21 Melbourne",
   "data_date": "2026-06-18",
-  "latest_price": "4.74523",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度70%。",
+  "latest_price": "4.74254",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "70%",
+      "confidence": "55%",
       "risk": "宏观事件风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度70%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "70%",
+      "confidence": "55%",
       "risk": "宏观事件风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度70%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "7D",
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响，Federal Reserve Monet…",
-    "next_event": "2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-22 10:00 PBOC Loan Prime Rate Decision（高影响，PBOC）。市场共识：Previous 3.50% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去13次类似rba弱于预期事件，事件公布当天平均…",
+    "next_event": "2026-06-22 10:00 PBOC Loan Prime Rate Decision（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-18 AUD/CNH -0.61%",
-    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-06-18 AUD/CNH -0.67%",
+    "historical": "类似事件样本 13，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
