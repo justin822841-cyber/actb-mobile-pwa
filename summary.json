@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18 10:02 Melbourne",
+  "generated_at": "2026-06-18 10:10 Melbourne",
   "data_date": "2026-06-18",
-  "latest_price": "4.74356",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度55%。",
+  "latest_price": "4.75223",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度70%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "55%",
+      "confidence": "70%",
       "risk": "宏观事件风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度55%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度70%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "55%",
+      "confidence": "70%",
       "risk": "宏观事件风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度55%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度70%。"
     },
     {
       "key": "7D",
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响，Federal Reserve Monet…",
     "next_event": "2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-18 AUD/CNH -0.64%",
+    "latest_move": "2026-06-18 AUD/CNH -0.46%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
