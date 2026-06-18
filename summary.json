@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18 12:03 Melbourne",
+  "generated_at": "2026-06-18 15:15 Melbourne",
   "data_date": "2026-06-18",
-  "latest_price": "4.75885",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度70%。",
+  "latest_price": "4.75804",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度69%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "70%",
+      "confidence": "69%",
       "risk": "宏观事件风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度70%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度69%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "70%",
+      "confidence": "69%",
       "risk": "宏观事件风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度70%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度69%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     },
     {
       "key": "30D",
@@ -40,38 +40,47 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响，Federal Reserve Monet…",
     "next_event": "2026-06-18 04:00 Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-18 AUD/CNH -0.32%",
+    "latest_move": "2026-06-18 AUD/CNH -0.34%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.78125，开仓 06-16 12:32，止损 4.79301，止盈 4.76361",
+    "active": "看跌/SHORT @ 4.75775，开仓 06-18 15:15，止损 4.76854，止盈 4.74156",
     "recent": [
+      {
+        "time": "06-18 15:15",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.75775",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.70378) below MA20 (0.71065) AND USD/CNH (6.7607) below MA20 (6.7732) → bearish…"
+      },
       {
         "time": "06-16 12:32",
         "direction": "看跌/SHORT",
-        "status": "持仓中",
+        "status": "已平仓",
         "entry": "4.78125",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
+        "exit": "4.75825",
+        "pnl_pct": "+0.48%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
         "time": "06-16 10:31",
         "direction": "看跌/SHORT",
-        "status": "持仓中",
+        "status": "已平仓",
         "entry": "4.78125",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
+        "exit": "4.75825",
+        "pnl_pct": "+0.48%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
@@ -91,18 +100,9 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
-      },
-      {
-        "time": "06-15 08:31",
-        "direction": "看跌/SHORT",
-        "status": "持仓中",
-        "entry": "4.77485",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
       }
     ],
-    "stats": "已平仓 9 笔，胜率 89%，平均收益 +0.65%"
+    "stats": "已平仓 11 笔，胜率 91%，平均收益 +0.62%"
   },
   "actions": {
     "refresh_url": "",
