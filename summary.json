@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22 16:59 Melbourne",
+  "generated_at": "2026-06-22 17:08 Melbourne",
   "data_date": "2026-06-22",
-  "latest_price": "4.74762",
+  "latest_price": "4.74776",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度52%。",
   "horizons": [
     {
@@ -57,21 +57,21 @@
     "active": "暂无持仓",
     "recent": [
       {
-        "time": "06-22 16:59",
+        "time": "06-22 17:08",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
         "exit": "—",
         "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.70067 vs 0.70913), USD/CNH above MA20 (6.7758 vs 6.7…"
+        "reason": "Mixed signals: AUD/USD below MA20 (0.70067 vs 0.70913), USD/CNH above MA20 (6.7760 vs 6.7…"
       },
       {
         "time": "06-16 12:32",
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.78125",
-        "exit": "4.74785",
-        "pnl_pct": "+0.70%",
+        "exit": "4.74805",
+        "pnl_pct": "+0.69%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
@@ -79,8 +79,8 @@
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.78125",
-        "exit": "4.74785",
-        "pnl_pct": "+0.70%",
+        "exit": "4.74805",
+        "pnl_pct": "+0.69%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
@@ -88,8 +88,8 @@
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.77485",
-        "exit": "4.74785",
-        "pnl_pct": "+0.57%",
+        "exit": "4.74805",
+        "pnl_pct": "+0.56%",
         "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
       },
       {
@@ -97,8 +97,8 @@
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.77485",
-        "exit": "4.74785",
-        "pnl_pct": "+0.57%",
+        "exit": "4.74805",
+        "pnl_pct": "+0.56%",
         "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
       }
     ],
