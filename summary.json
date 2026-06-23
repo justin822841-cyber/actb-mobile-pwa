@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23 15:43 Melbourne",
+  "generated_at": "2026-06-23 15:55 Melbourne",
   "data_date": "2026-06-23",
-  "latest_price": "4.72193",
+  "latest_price": "4.72363",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度54%。",
   "horizons": [
     {
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场共识：市场预期待抓取。ACTB预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件，事件公布当天平均+0.14%，看涨占比67%，看跌占比33%…",
     "next_event": "2026-06-24 11:30 Australian CPI (Monthly)（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-23 AUD/CNH -0.38%",
+    "latest_move": "2026-06-23 AUD/CNH -0.34%",
     "historical": "类似事件样本 3，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
