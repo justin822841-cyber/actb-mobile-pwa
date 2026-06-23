@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23 16:37 Melbourne",
+  "generated_at": "2026-06-23 20:11 Melbourne",
   "data_date": "2026-06-23",
-  "latest_price": "4.71746",
+  "latest_price": "4.71983",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度54%。",
   "horizons": [
     {
@@ -49,60 +49,60 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场共识：市场预期待抓取。ACTB预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件，事件公布当天平均+0.14%，看涨占比67%，看跌占比33%…",
     "next_event": "2026-06-24 11:30 Australian CPI (Monthly)（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-23 AUD/CNH -0.48%",
+    "latest_move": "2026-06-23 AUD/CNH -0.43%",
     "historical": "类似事件样本 3，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "暂无持仓",
+    "active": "看跌/SHORT @ 4.78125，开仓 06-16 12:32，止损 4.79301，止盈 4.76361",
     "recent": [
-      {
-        "time": "06-23 16:37",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69575 vs 0.70804), USD/CNH above MA20 (6.7804 vs 6.7…"
-      },
       {
         "time": "06-16 12:32",
         "direction": "看跌/SHORT",
-        "status": "已平仓",
+        "status": "持仓中",
         "entry": "4.78125",
-        "exit": "4.71775",
-        "pnl_pct": "+1.33%",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
         "time": "06-16 10:31",
         "direction": "看跌/SHORT",
-        "status": "已平仓",
+        "status": "持仓中",
         "entry": "4.78125",
-        "exit": "4.71775",
-        "pnl_pct": "+1.33%",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
         "reason": "AUD/USD (0.70761) below MA20 (0.71192) AND USD/CNH (6.7572) below MA20 (6.7798) → bearish…"
       },
       {
         "time": "06-15 12:41",
         "direction": "看跌/SHORT",
-        "status": "已平仓",
+        "status": "持仓中",
         "entry": "4.77485",
-        "exit": "4.71775",
-        "pnl_pct": "+1.20%",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
         "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
       },
       {
         "time": "06-15 10:37",
         "direction": "看跌/SHORT",
-        "status": "已平仓",
+        "status": "持仓中",
         "entry": "4.77485",
-        "exit": "4.71775",
-        "pnl_pct": "+1.20%",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
+      },
+      {
+        "time": "06-15 08:31",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.77485",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
         "reason": "AUD/USD (0.70497) below MA20 (0.71699) AND USD/CNH (6.7650) below MA20 (6.7862) → bearish…"
       }
     ],
-    "stats": "已平仓 14 笔，胜率 93%，平均收益 +0.87%"
+    "stats": "已平仓 9 笔，胜率 89%，平均收益 +0.65%"
   },
   "actions": {
     "refresh_url": "",
