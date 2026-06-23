@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23 09:58 Melbourne",
+  "generated_at": "2026-06-23 11:33 Melbourne",
   "data_date": "2026-06-23",
-  "latest_price": "4.74005",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度52%。",
+  "latest_price": "4.72761",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度54%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "52%",
+      "confidence": "54%",
       "risk": "宏观事件风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度52%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度54%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "52%",
+      "confidence": "54%",
       "risk": "宏观事件风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度52%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度54%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "29%",
       "risk": "宏观事件风险较高",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度29%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场共识：市场预期待抓取。ACTB预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件，事件公布当天平均+0.14%，看涨占比67%，看跌占比33%…",
     "next_event": "2026-06-24 11:30 Australian CPI (Monthly)（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-06-23 AUD/CNH +0.00%",
+    "latest_move": "2026-06-23 AUD/CNH -0.26%",
     "historical": "类似事件样本 3，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
