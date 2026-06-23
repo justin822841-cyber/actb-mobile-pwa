@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-24 08:53 Melbourne",
-  "data_date": "2026-06-23",
-  "latest_price": "4.69346",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度50%。",
+  "generated_at": "2026-06-24 09:39 Melbourne",
+  "data_date": "2026-06-24",
+  "latest_price": "4.69439",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度65%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "50%",
+      "confidence": "65%",
       "risk": "预测风险较高",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度50%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度65%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看跌",
       "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "50%",
+      "confidence": "65%",
       "risk": "预测风险较高",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度50%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度65%。"
     },
     {
       "key": "7D",
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.98%，主导腿为AUD/USD。重点事件：2026-06-22 10:00 PBOC Loan Prime Rate Decision（高影响，PBOC）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去28次类似rba弱于预期事件，事件公布…",
+    "headline": "最新AUD/CNH波动-0.93%，主导腿为AUD/USD。重点事件：2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场方向已经发生重新定价，需要新闻/AI层继续确认是否为预期差。预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件…",
     "next_event": "2026-06-24 11:30 Australian CPI (Monthly)（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-06-23 AUD/CNH -0.98%",
-    "historical": "类似事件样本 28，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-06-24 AUD/CNH -0.93%",
+    "historical": "类似事件样本 3，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
