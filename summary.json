@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24 20:38 Melbourne",
+  "generated_at": "2026-06-25 08:50 Melbourne",
   "data_date": "2026-06-24",
-  "latest_price": "4.68493",
+  "latest_price": "4.69321",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度66%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-1.13%，主导腿为AUD/USD。重点事件：2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场方向已经发生重新定价，需要新闻/AI层继续确认是否为预期差。预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件…",
-    "next_event": "2026-06-24 11:30 Australian CPI (Monthly)（高影响）",
+    "headline": "最新AUD/CNH波动-0.96%，主导腿为AUD/USD。重点事件：2026-06-24 11:30 Australian CPI (Monthly)（高影响，ABS）。市场方向已经发生重新定价，需要新闻/AI层继续确认是否为预期差。预期差：偏鹰/强于预期，若该预期差成立，AUD/CNH偏看涨。历史参照：过去3次类似australia_cpi强于预期事件…",
+    "next_event": "2026-06-25 11:30 Australian Employment Change（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-06-24 AUD/CNH -1.13%",
+    "latest_move": "2026-06-24 AUD/CNH -0.96%",
     "historical": "类似事件样本 3，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
@@ -57,13 +57,13 @@
     "active": "暂无持仓",
     "recent": [
       {
-        "time": "06-24 20:38",
+        "time": "06-24 20:35",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
         "exit": "—",
         "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.68913 vs 0.70683), USD/CNH above MA20 (6.7983 vs 6.7…"
+        "reason": "Mixed signals: AUD/USD below MA20 (0.68904 vs 0.70683), USD/CNH above MA20 (6.7983 vs 6.7…"
       },
       {
         "time": "06-24 16:34",
