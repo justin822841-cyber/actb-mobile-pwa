@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01 20:34 Melbourne",
+  "generated_at": "2026-07-02 08:47 Melbourne",
   "data_date": "2026-07-01",
-  "latest_price": "4.67779",
+  "latest_price": "4.67660",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度53%。",
   "horizons": [
     {
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-01 08:26 China: PBoC overnight tool refines framework – MUFG - FXStreet（高影响，Google News）。市场共识：Forecast 52.0 · Previous 51.8 · Investing.com。ACTB预期差：偏鹰/强…",
-    "next_event": "2026-07-01 08:26 China: PBoC overnight tool refines framework – MUFG - FXStreet（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-02 00:40 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响，Google News）。市场共识：Forecast 2.180B · Previous 1.791B · Investing.com…",
+    "next_event": "2026-07-02 00:40 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-01 AUD/CNH +0.05%",
-    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-07-01 AUD/CNH +0.02%",
+    "historical": "类似事件样本 15，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
