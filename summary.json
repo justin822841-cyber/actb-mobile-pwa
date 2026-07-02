@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-02 08:52 Melbourne",
-  "data_date": "2026-07-01",
-  "latest_price": "4.68441",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度33%。",
+  "generated_at": "2026-07-02 11:33 Melbourne",
+  "data_date": "2026-07-02",
+  "latest_price": "4.67464",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度57%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "33%",
+      "direction": "看跌",
+      "direction_raw": "bearish",
+      "suitability": "谨慎",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度33%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "33%",
+      "direction": "看跌",
+      "direction_raw": "bearish",
+      "suitability": "谨慎",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度33%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "28%",
+      "confidence": "32%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度28%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度32%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "28%",
+      "confidence": "32%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度28%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度32%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-02 00:40 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响，Google News）。市场共识：Forecast 2.180B · Previous 1.791B · Investing.com…",
-    "next_event": "2026-07-02 00:40 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-02 00:00 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响，Google News）。市场共识：Forecast 2.180B · Previous 1.791B · Investing.com…",
+    "next_event": "2026-07-02 00:00 Loan-slide: RBA warns of budget’s influence on housing - The Australian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-01 AUD/CNH +0.19%",
+    "latest_move": "2026-07-02 AUD/CNH -0.46%",
     "historical": "类似事件样本 15，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
