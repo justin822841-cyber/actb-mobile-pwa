@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06 09:38 Melbourne",
+  "generated_at": "2026-07-07 08:47 Melbourne",
   "data_date": "2026-07-06",
-  "latest_price": "4.69794",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度31%。",
+  "latest_price": "4.72218",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "31%",
-      "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
+      "confidence": "36%",
+      "risk": "Signal alignment is weak",
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "31%",
-      "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
+      "confidence": "36%",
+      "risk": "Signal alignment is weak",
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "7D",
@@ -31,7 +31,7 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
@@ -41,15 +41,15 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-06 07:27 Australian Dollar Outlook: AUD/USD Bounce Lacks Conviction as ISM, FOMC Loom - FOREX.com（高影响，Google News）。市场共识：Previous 47.9 · Investing.com。AC…",
-    "next_event": "2026-07-06 07:27 Australian Dollar Outlook: AUD/USD Bounce Lacks Conviction as ISM, FOMC Loom - FOREX.com（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响，Google News）。市场共识：Previous -13.0K · Investing.co…",
+    "next_event": "2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-06 AUD/CNH +0.06%",
+    "latest_move": "2026-07-06 AUD/CNH +0.58%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
