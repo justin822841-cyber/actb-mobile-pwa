@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07 16:32 Melbourne",
+  "generated_at": "2026-07-07 20:39 Melbourne",
   "data_date": "2026-07-07",
-  "latest_price": "4.71743",
+  "latest_price": "4.71879",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度31%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响，Google News）。市场共识：Previous -13.0K · Investing.co…",
     "next_event": "2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-07 AUD/CNH +0.17%",
+    "latest_move": "2026-07-07 AUD/CNH +0.20%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-07 20:39",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD below MA20 (0.69469 vs 0.69704), USD/CNH above MA20 (6.7927 vs 6.7…"
+      },
       {
         "time": "07-07 16:32",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD below MA20 (0.69391 vs 0.69752), USD/CNH above MA20 (6.7792 vs 6.7…"
-      },
-      {
-        "time": "07-03 18:37",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69478 vs 0.69820), USD/CNH above MA20 (6.7799 vs 6.7…"
       }
     ],
     "stats": "已平仓 14 笔，胜率 93%，平均收益 +1.00%"
