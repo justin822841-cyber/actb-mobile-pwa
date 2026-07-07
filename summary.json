@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 09:41 Melbourne",
+  "generated_at": "2026-07-07 14:31 Melbourne",
   "data_date": "2026-07-07",
-  "latest_price": "4.73046",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度30%。",
+  "latest_price": "4.71905",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度31%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
-      "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "confidence": "31%",
+      "risk": "Signal alignment is weak",
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
-      "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "confidence": "31%",
+      "risk": "Signal alignment is weak",
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "7D",
@@ -31,7 +31,7 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
@@ -41,7 +41,7 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响，Google News）。市场共识：Previous -13.0K · Investing.co…",
     "next_event": "2026-07-07 00:36 Australian Dollar retreats toward 0.6900 amid renewed signs of cooling inflation - Mitrade（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-07 AUD/CNH +0.45%",
+    "latest_move": "2026-07-07 AUD/CNH +0.21%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-07 14:31",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD below MA20 (0.69473 vs 0.69704), USD/CNH above MA20 (6.7926 vs 6.7…"
+      },
       {
         "time": "07-06 08:38",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD below MA20 (0.68904 vs 0.70683), USD/CNH above MA20 (6.7983 vs 6.7…"
-      },
-      {
-        "time": "06-24 16:34",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69137 vs 0.70694), USD/CNH above MA20 (6.8013 vs 6.7…"
       }
     ],
     "stats": "已平仓 14 笔，胜率 93%，平均收益 +1.00%"
