@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08 08:37 Melbourne",
+  "generated_at": "2026-07-08 08:43 Melbourne",
   "data_date": "2026-07-07",
-  "latest_price": "4.70618",
+  "latest_price": "4.70585",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度46%。",
   "horizons": [
     {
@@ -57,13 +57,13 @@
     "active": "暂无持仓",
     "recent": [
       {
-        "time": "07-08 08:37",
+        "time": "07-08 08:43",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
         "exit": "—",
         "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69281 vs 0.69694), USD/CNH above MA20 (6.7929 vs 6.7…"
+        "reason": "Mixed signals: AUD/USD below MA20 (0.69276 vs 0.69694), USD/CNH above MA20 (6.7929 vs 6.7…"
       },
       {
         "time": "07-07 20:41",
