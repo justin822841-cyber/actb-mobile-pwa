@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-08 08:43 Melbourne",
-  "data_date": "2026-07-07",
-  "latest_price": "4.70585",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度46%。",
+  "generated_at": "2026-07-08 09:32 Melbourne",
+  "data_date": "2026-07-08",
+  "latest_price": "4.70293",
+  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度41%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看涨",
-      "direction_raw": "bullish",
+      "direction": "看跌",
+      "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "46%",
+      "confidence": "41%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度46%。"
+      "summary": "日内方向为看跌，持有适合度为谨慎，置信度41%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看涨",
-      "direction_raw": "bullish",
+      "direction": "看跌",
+      "direction_raw": "bearish",
       "suitability": "谨慎",
-      "confidence": "46%",
+      "confidence": "41%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度46%。"
+      "summary": "3天方向为看跌，持有适合度为谨慎，置信度41%。"
     },
     {
       "key": "7D",
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-08 04:47 ‘Losing voters to One Nation’: The push from inside Labor to force RBA to keep rates lower - SMH.com.au（高影响，Google News）。市场共识：Forecast -1.1% ·…",
-    "next_event": "2026-07-08 04:47 ‘Losing voters to One Nation’: The push from inside Labor to force RBA to keep rates lower - SMH.com.au（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-08 08:33 RBA flags data centre boom as new threat in inflation fight - AFR（高影响，Google News）。市场共识：Previous 3.5% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立…",
+    "next_event": "2026-07-08 08:33 RBA flags data centre boom as new threat in inflation fight - AFR（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-07 AUD/CNH -0.07%",
+    "latest_move": "2026-07-08 AUD/CNH -0.50%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
