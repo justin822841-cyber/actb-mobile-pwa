@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08 23:00 Melbourne",
+  "generated_at": "2026-07-08 23:17 Melbourne",
   "data_date": "2026-07-08",
-  "latest_price": "4.70176",
+  "latest_price": "4.70308",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度41%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-08 02:22 Construction rebalancing keeps the RBA on alert - Westpac IQ（高影响，Google News）。市场共识：Forecast -1.1% · Previous -3.4% · Investing.com。ACTB预期差：偏鹰/强…",
-    "next_event": "2026-07-08 02:22 Construction rebalancing keeps the RBA on alert - Westpac IQ（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-08 04:47 ‘Losing voters to One Nation’: The push from inside Labor to force RBA to keep rates lower - SMH.com.au（高影响，Google News）。市场共识：Forecast -1.1% ·…",
+    "next_event": "2026-07-08 04:47 ‘Losing voters to One Nation’: The push from inside Labor to force RBA to keep rates lower - SMH.com.au（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-08 AUD/CNH -0.53%",
+    "latest_move": "2026-07-08 AUD/CNH -0.50%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-08 23:17",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD below MA20 (0.69276 vs 0.69660), USD/CNH above MA20 (6.7889 vs 6.7…"
+      },
       {
         "time": "07-08 23:00",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD below MA20 (0.69161 vs 0.69655), USD/CNH above MA20 (6.7993 vs 6.7…"
-      },
-      {
-        "time": "07-08 16:17",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69420 vs 0.69668), USD/CNH above MA20 (6.7968 vs 6.7…"
       }
     ],
     "stats": "已平仓 14 笔，胜率 93%，平均收益 +1.00%"
