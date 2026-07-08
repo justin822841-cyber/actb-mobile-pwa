@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09 08:45 Melbourne",
+  "generated_at": "2026-07-09 08:59 Melbourne",
   "data_date": "2026-07-08",
-  "latest_price": "4.71254",
+  "latest_price": "4.71542",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度25%。",
   "horizons": [
     {
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-09 00:36 Interest hikes, higher jobless rate on table in RBA inflation fight - The Australian（高影响，Google News）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期…",
     "next_event": "2026-07-09 00:36 Interest hikes, higher jobless rate on table in RBA inflation fight - The Australian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-08 AUD/CNH -0.30%",
+    "latest_move": "2026-07-08 AUD/CNH -0.24%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
