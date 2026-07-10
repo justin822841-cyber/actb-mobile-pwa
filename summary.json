@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10 21:20 Melbourne",
+  "generated_at": "2026-07-10 23:36 Melbourne",
   "data_date": "2026-07-10",
-  "latest_price": "4.70095",
+  "latest_price": "4.70535",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-10 15:56 Big four bank’s grim RBA rates call - News.com.au（高影响，Google News）。市场共识：Previous 5.050% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看跌。历史…",
-    "next_event": "2026-07-10 15:56 Big four bank’s grim RBA rates call - News.com.au（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-10 10:56 China PBOC Gold Purchases: 20-Month Buying Streak Accelerates in 2026 - Discovery Alert（高影响，Google News）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若…",
+    "next_event": "2026-07-10 10:56 China PBOC Gold Purchases: 20-Month Buying Streak Accelerates in 2026 - Discovery Alert（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-10 AUD/CNH -0.37%",
-    "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-07-10 AUD/CNH -0.28%",
+    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
