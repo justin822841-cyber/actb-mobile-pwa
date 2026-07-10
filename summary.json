@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10 19:59 Melbourne",
+  "generated_at": "2026-07-10 21:20 Melbourne",
   "data_date": "2026-07-10",
-  "latest_price": "4.70829",
+  "latest_price": "4.70095",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-10 15:56 Big four bank’s grim RBA rates call - News.com.au（高影响，Google News）。市场共识：Previous 5.050% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看跌。历史…",
     "next_event": "2026-07-10 15:56 Big four bank’s grim RBA rates call - News.com.au（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-10 AUD/CNH -0.21%",
+    "latest_move": "2026-07-10 AUD/CNH -0.37%",
     "historical": "类似事件样本 18，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.70805，开仓 07-10 19:59，止损 4.71740，止盈 4.69403",
+    "active": "看跌/SHORT @ 4.70075，开仓 07-10 21:20，止损 4.71010，止盈 4.68673",
     "recent": [
+      {
+        "time": "07-10 21:20",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.70075",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.69498) below MA20 (0.69580) AND USD/CNH (6.7642) below MA20 (6.7816) → bearish…"
+      },
       {
         "time": "07-10 19:59",
         "direction": "看跌/SHORT",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD below MA20 (0.69435 vs 0.69632), USD/CNH above MA20 (6.7916 vs 6.7…"
-      },
-      {
-        "time": "07-10 06:44",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD below MA20 (0.69440 vs 0.69633), USD/CNH above MA20 (6.7837 vs 6.7…"
       }
     ],
     "stats": "已平仓 14 笔，胜率 93%，平均收益 +1.00%"
