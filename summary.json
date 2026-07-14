@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15 08:32 Melbourne",
+  "generated_at": "2026-07-15 08:41 Melbourne",
   "data_date": "2026-07-14",
-  "latest_price": "4.71773",
+  "latest_price": "4.71806",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度42%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。市场共识：市场预期待抓取。ACTB预期差：不确定，预期差不明确，暂不单独提高方向权重。历史参照：过去15次类似china_gdp事件，事件公布当天平均+0.12%，看涨占比60%，看跌占比40%，历史倾向：看涨。",
     "next_event": "2026-07-15 12:00 China GDP (Quarterly)（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-14 AUD/CNH +0.28%",
+    "latest_move": "2026-07-14 AUD/CNH +0.29%",
     "historical": "类似事件样本 15，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-15 08:41",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69769 vs 0.69463), USD/CNH below MA20 (6.7624 vs 6.7…"
+      },
       {
         "time": "07-15 08:32",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69740 vs 0.69461), USD/CNH below MA20 (6.7624 vs 6.7…"
-      },
-      {
-        "time": "07-15 04:49",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69750 vs 0.69462), USD/CNH below MA20 (6.7595 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
