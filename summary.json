@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 03:35 Melbourne",
+  "generated_at": "2026-07-15 04:37 Melbourne",
   "data_date": "2026-07-14",
-  "latest_price": "4.71616",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度41%。",
+  "latest_price": "4.71637",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度42%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "41%",
+      "confidence": "42%",
       "risk": "预测风险较高",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度41%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度42%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "41%",
+      "confidence": "42%",
       "risk": "预测风险较高",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度41%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度42%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "21%",
+      "confidence": "22%",
       "risk": "预测风险较高",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度21%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度22%。"
     },
     {
       "key": "30D",
@@ -40,9 +40,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "21%",
+      "confidence": "22%",
       "risk": "预测风险较高",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度21%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度22%。"
     }
   ],
   "macro": {
@@ -56,6 +56,15 @@
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-15 04:37",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69774 vs 0.69463), USD/CNH below MA20 (6.7595 vs 6.7…"
+      },
       {
         "time": "07-15 03:35",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "4.70465",
         "pnl_pct": "-0.43%",
         "reason": "AUD/USD (0.69190) below MA20 (0.69499) AND USD/CNH (6.7709) below MA20 (6.7832) → bearish…"
-      },
-      {
-        "time": "07-14 04:29",
-        "direction": "看跌/SHORT",
-        "status": "已平仓",
-        "entry": "4.68455",
-        "exit": "4.70465",
-        "pnl_pct": "-0.43%",
-        "reason": "AUD/USD (0.69223) below MA20 (0.69501) AND USD/CNH (6.7677) below MA20 (6.7831) → bearish…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
