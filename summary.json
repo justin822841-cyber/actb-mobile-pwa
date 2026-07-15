@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 07:40 Melbourne",
+  "generated_at": "2026-07-16 08:41 Melbourne",
   "data_date": "2026-07-15",
-  "latest_price": "4.73541",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
+  "latest_price": "4.73607",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度51%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "50%",
+      "confidence": "51%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度50%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度51%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "50%",
+      "confidence": "51%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度50%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度51%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.96%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
+    "headline": "最新AUD/CNH波动+0.98%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
     "next_event": "2026-07-16 02:38 PBOC Moves to Deepen Offshore Yuan Liquidity, Broaden Asset Supply - Caixin Global（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-07-15 AUD/CNH +0.96%",
+    "latest_move": "2026-07-15 AUD/CNH +0.98%",
     "historical": "类似事件样本 1，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-16 08:41",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70082 vs 0.69405), USD/CNH below MA20 (6.7579 vs 6.7…"
+      },
       {
         "time": "07-16 07:40",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70156 vs 0.69408), USD/CNH below MA20 (6.7677 vs 6.7…"
-      },
-      {
-        "time": "07-16 03:39",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70116 vs 0.69406), USD/CNH below MA20 (6.7677 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
