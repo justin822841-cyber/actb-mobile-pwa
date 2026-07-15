@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16 00:30 Melbourne",
+  "generated_at": "2026-07-16 00:45 Melbourne",
   "data_date": "2026-07-15",
-  "latest_price": "4.72735",
+  "latest_price": "4.72900",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度49%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.79%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
-    "next_event": "2026-07-15 19:22 PBOC Signals Comfort With Yuan Levels, Expects Two-Way Moves - Bloomberg.com（高影响）",
+    "headline": "最新AUD/CNH波动+0.83%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
+    "next_event": "2026-07-16 00:02 WAIC 2026 | Bringing Dexterous Hands Down to 10,000-Yuan, Stella-Robot to Demonstrate Strength - Gasgoo（中影响）",
     "shock_detected": true,
-    "latest_move": "2026-07-15 AUD/CNH +0.79%",
+    "latest_move": "2026-07-15 AUD/CNH +0.83%",
     "historical": "类似事件样本 1，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-16 00:45",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69989 vs 0.69400), USD/CNH below MA20 (6.7568 vs 6.7…"
+      },
       {
         "time": "07-16 00:30",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69871 vs 0.69394), USD/CNH below MA20 (6.7622 vs 6.7…"
-      },
-      {
-        "time": "07-15 21:09",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69871 vs 0.69394), USD/CNH below MA20 (6.7625 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
