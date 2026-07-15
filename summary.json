@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16 08:41 Melbourne",
+  "generated_at": "2026-07-16 08:55 Melbourne",
   "data_date": "2026-07-15",
-  "latest_price": "4.73607",
+  "latest_price": "4.73640",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度51%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.98%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
+    "headline": "最新AUD/CNH波动+0.99%，主导腿为AUD/USD。重点事件：2026-07-15 12:00 China GDP (Quarterly)（高影响，NBS China）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去1次类似china_gdp弱于预期事件，事件公布…",
     "next_event": "2026-07-16 02:38 PBOC Moves to Deepen Offshore Yuan Liquidity, Broaden Asset Supply - Caixin Global（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-07-15 AUD/CNH +0.98%",
+    "latest_move": "2026-07-15 AUD/CNH +0.99%",
     "historical": "类似事件样本 1，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
