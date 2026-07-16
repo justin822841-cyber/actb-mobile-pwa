@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17 05:35 Melbourne",
+  "generated_at": "2026-07-17 05:40 Melbourne",
   "data_date": "2026-07-16",
-  "latest_price": "4.73116",
+  "latest_price": "4.73706",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
   "horizons": [
     {
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-17 01:33 China’s CBDC strategy: two ‘key points to watch’ as digital yuan evolves - Global Government Finance（中影响，Google News）。市场共识：Forecasts as PBOC Fl…",
     "next_event": "2026-07-17 01:33 China’s CBDC strategy: two ‘key points to watch’ as digital yuan evolves - Global Government Finance（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-16 AUD/CNH +0.17%",
+    "latest_move": "2026-07-16 AUD/CNH +0.30%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-17 05:40",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69950 vs 0.69377), USD/CNH below MA20 (6.7721 vs 6.7…"
+      },
       {
         "time": "07-17 05:35",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70062 vs 0.69383), USD/CNH below MA20 (6.7622 vs 6.7…"
-      },
-      {
-        "time": "07-16 23:07",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70038 vs 0.69381), USD/CNH below MA20 (6.7687 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
