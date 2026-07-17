@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17 16:36 Melbourne",
+  "generated_at": "2026-07-17 18:29 Melbourne",
   "data_date": "2026-07-17",
-  "latest_price": "4.73507",
+  "latest_price": "4.72993",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
   "horizons": [
     {
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-17 09:59 PBOC is expected to set the USD/CNY reference rate at 6.7734 – Reuters estimate - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确定，预期差不明…",
-    "next_event": "2026-07-17 09:59 PBOC is expected to set the USD/CNY reference rate at 6.7734 – Reuters estimate - investingLive（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-17 12:41 Yuan Weakens Slightly Against USD As PBOC Lowers Daily Fixing - BusinessToday Malaysia（高影响，Google News）。市场共识：Expected - TradingPedia。ACTB预期差：不确…",
+    "next_event": "2026-07-17 12:41 Yuan Weakens Slightly Against USD As PBOC Lowers Daily Fixing - BusinessToday Malaysia（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-17 AUD/CNH -0.17%",
+    "latest_move": "2026-07-17 AUD/CNH -0.28%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
