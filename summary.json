@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-20 04:40 Melbourne",
+  "generated_at": "2026-07-20 08:10 Melbourne",
   "data_date": "2026-07-19",
-  "latest_price": "4.72704",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
+  "latest_price": "4.71979",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度26%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度55%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度55%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "7D",
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-20 01:05 China's State-Backed \"National Team\" Joins Forces to Stabilize Market: China Reform Holdings Deploys 50 Billion Yuan, China Chengtong Nearly 10…",
     "next_event": "2026-07-20 01:05 China's State-Backed \"National Team\" Joins Forces to Stabilize Market: China Reform Holdings Deploys 50 Billion Yuan, China Chengtong Nearly 10 Billion Yuan to Boost Chinese Assets - finance.biggo.com（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-19 AUD/CNH -0.28%",
+    "latest_move": "2026-07-19 AUD/CNH -0.43%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-20 08:10",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69740 vs 0.69362), USD/CNH below MA20 (6.7677 vs 6.7…"
+      },
       {
         "time": "07-20 04:40",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69847 vs 0.69368), USD/CNH below MA20 (6.7677 vs 6.7…"
-      },
-      {
-        "time": "07-20 00:38",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69847 vs 0.69368), USD/CNH below MA20 (6.7755 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
