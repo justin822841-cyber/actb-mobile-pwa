@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 08:01 Melbourne",
+  "generated_at": "2026-07-23 08:46 Melbourne",
   "data_date": "2026-07-22",
-  "latest_price": "4.73527",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度30%。",
+  "latest_price": "4.72769",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "25%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-23 05:51 China’s consumer goods trade-in programs generate sales of 1.1 trillion yuan in H1 - Macau Business（中影响，Google News）。市场共识：Previous 4.927% · Inv…",
     "next_event": "2026-07-23 05:51 China’s consumer goods trade-in programs generate sales of 1.1 trillion yuan in H1 - Macau Business（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-22 AUD/CNH -0.13%",
+    "latest_move": "2026-07-22 AUD/CNH -0.29%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
