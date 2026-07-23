@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-23 11:17 Melbourne",
-  "data_date": "2026-07-22",
-  "latest_price": "4.73646",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度30%。",
+  "generated_at": "2026-07-23 14:18 Melbourne",
+  "data_date": "2026-07-23",
+  "latest_price": "4.75306",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "55%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "55%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "7D",
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-23 09:01 NAB cuts short-term fixed rates ahead of RBA decision - mpamag.com（高影响，Google News）。市场共识：Forecast 15.2K · Previous 40.3K · Investing.com。ACTB预期…",
-    "next_event": "2026-07-23 09:01 NAB cuts short-term fixed rates ahead of RBA decision - mpamag.com（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-23 06:30 Think you have a handle on how Australia’s economy works? Take the RBA’s quiz and find out - The Guardian（高影响，Google News）。市场共识：Forecast 15.2K…",
+    "next_event": "2026-07-23 06:30 Think you have a handle on how Australia’s economy works? Take the RBA’s quiz and find out - The Guardian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-22 AUD/CNH -0.10%",
-    "historical": "类似事件样本 23，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-07-23 AUD/CNH +0.35%",
+    "historical": "类似事件样本 24，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-23 14:18",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70235 vs 0.69472), USD/CNH below MA20 (6.7674 vs 6.7…"
+      },
       {
         "time": "07-23 11:17",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69950 vs 0.69458), USD/CNH below MA20 (6.7639 vs 6.7…"
-      },
-      {
-        "time": "07-23 07:45",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69950 vs 0.69408), USD/CNH below MA20 (6.7639 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
