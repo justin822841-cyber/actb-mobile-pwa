@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24 00:32 Melbourne",
+  "generated_at": "2026-07-24 01:51 Melbourne",
   "data_date": "2026-07-23",
-  "latest_price": "4.72473",
+  "latest_price": "4.71919",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-23 13:52 Inflation not housing the main game, RBA survey finds - Savings.com.au（高影响，Google News）。市场共识：Forecast 15.2K · Previous 40.3K · Investing.com。AC…",
-    "next_event": "2026-07-23 13:52 Inflation not housing the main game, RBA survey finds - Savings.com.au（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-23 20:39 Yen Sold to New 40-Year Lows, while PBOC Sets Dollar's Reference Rate at a 3-Year Low - Forex Factory（高影响，Google News）。市场共识：Previous 4.927% · I…",
+    "next_event": "2026-07-23 20:39 Yen Sold to New 40-Year Lows, while PBOC Sets Dollar's Reference Rate at a 3-Year Low - Forex Factory（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-23 AUD/CNH -0.25%",
-    "historical": "类似事件样本 24，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-07-23 AUD/CNH -0.36%",
+    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-24 01:51",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69750 vs 0.69448), USD/CNH below MA20 (6.7659 vs 6.7…"
+      },
       {
         "time": "07-24 00:32",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69911 vs 0.69456), USD/CNH below MA20 (6.7601 vs 6.7…"
-      },
-      {
-        "time": "07-23 20:07",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70003 vs 0.69461), USD/CNH below MA20 (6.7586 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
