@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-24 20:01 Melbourne",
+  "generated_at": "2026-07-24 20:33 Melbourne",
   "data_date": "2026-07-24",
-  "latest_price": "4.73643",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
+  "latest_price": "4.73069",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "50%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度50%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "50%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度50%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "7D",
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-24 09:02 Mortgage stress climbs to two-year high after RBA rate rise - mpamag.com（高影响，Google News）。市场共识：Previous 2.169% · Investing.com。ACTB预期差：偏鸽/弱于前值预…",
     "next_event": "2026-07-24 09:02 Mortgage stress climbs to two-year high after RBA rate rise - mpamag.com（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-24 AUD/CNH +0.06%",
+    "latest_move": "2026-07-24 AUD/CNH -0.07%",
     "historical": "类似事件样本 27，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-24 20:33",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69969 vs 0.69504), USD/CNH below MA20 (6.7611 vs 6.7…"
+      },
       {
         "time": "07-24 20:01",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69813 vs 0.69496), USD/CNH below MA20 (6.7739 vs 6.7…"
-      },
-      {
-        "time": "07-24 14:33",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69769 vs 0.69494), USD/CNH below MA20 (6.7750 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
