@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28 19:16 Melbourne",
+  "generated_at": "2026-07-28 21:34 Melbourne",
   "data_date": "2026-07-28",
-  "latest_price": "4.72003",
+  "latest_price": "4.70853",
   "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度46%。",
   "horizons": [
     {
@@ -11,7 +11,7 @@
       "direction_raw": "bearish",
       "suitability": "谨慎",
       "confidence": "46%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "日内方向为看跌，持有适合度为谨慎，置信度46%。"
     },
     {
@@ -21,7 +21,7 @@
       "direction_raw": "bearish",
       "suitability": "谨慎",
       "confidence": "46%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "3天方向为看跌，持有适合度为谨慎，置信度46%。"
     },
     {
@@ -31,7 +31,7 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
@@ -41,21 +41,30 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Multi-timeframe conflict is present",
+      "risk": "Signal alignment is weak",
       "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-28 12:12 Australian Dollar gains ahead of RBA Governor Bullock’s speech - FXStreet（高影响，Google News）。市场共识：Previous 4.189% · Investing.com。ACTB预期差：偏鸽/弱于前值…",
-    "next_event": "2026-07-28 12:12 Australian Dollar gains ahead of RBA Governor Bullock’s speech - FXStreet（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-28 12:33 Lenders cut rates even as RBA hike risk lingers - Australian Broker（高影响，Google News）。市场共识：Previous 4.189% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预…",
+    "next_event": "2026-07-28 12:33 Lenders cut rates even as RBA hike risk lingers - Australian Broker（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-28 AUD/CNH -0.35%",
+    "latest_move": "2026-07-28 AUD/CNH -0.59%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-28 21:34",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69662 vs 0.69580), USD/CNH below MA20 (6.7591 vs 6.7…"
+      },
       {
         "time": "07-28 19:16",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69896 vs 0.69591), USD/CNH below MA20 (6.7667 vs 6.7…"
-      },
-      {
-        "time": "07-28 09:47",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69886 vs 0.69591), USD/CNH below MA20 (6.7718 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
