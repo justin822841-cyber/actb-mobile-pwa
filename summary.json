@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28 09:47 Melbourne",
-  "data_date": "2026-07-27",
-  "latest_price": "4.73647",
+  "generated_at": "2026-07-28 13:36 Melbourne",
+  "data_date": "2026-07-28",
+  "latest_price": "4.72964",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-28 07:57 Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC - FXStreet（高影响，Google News）。市场共识：Forecast -98.00B · Previous -105.89…",
     "next_event": "2026-07-28 07:57 Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC - FXStreet（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-27 AUD/CNH +0.38%",
+    "latest_move": "2026-07-28 AUD/CNH -0.14%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-28 13:36",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.69896 vs 0.69591), USD/CNH below MA20 (6.7667 vs 6.7…"
+      },
       {
         "time": "07-28 09:47",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69930 vs 0.69537), USD/CNH below MA20 (6.7652 vs 6.7…"
-      },
-      {
-        "time": "07-28 06:50",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69915 vs 0.69536), USD/CNH below MA20 (6.7652 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
