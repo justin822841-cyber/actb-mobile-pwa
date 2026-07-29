@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30 03:40 Melbourne",
+  "generated_at": "2026-07-30 04:31 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.68560",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度37%。",
+  "latest_price": "4.69734",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "37%",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度37%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "37%",
+      "confidence": "36%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度37%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
       "key": "30D",
@@ -40,29 +40,29 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "26%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.88%，主导腿为AUD/USD。重点事件：2026-07-29 18:44 China Stocks Rose After PBoC Pumped In Fresh Cash - Finimize（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于前值预期，若该预期差成立…",
-    "next_event": "2026-07-29 13:18 China’s PBOC Kept Its Overnight Reverse Repo Rate Steady - Finimize（高影响）",
-    "shock_detected": true,
-    "latest_move": "2026-07-29 AUD/CNH -0.88%",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-30 04:00 Federal Reserve issues FOMC statement（高影响，Federal Reserve Monetary Policy）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看涨。历史参照：历史样本不足。",
+    "next_event": "2026-07-30 04:00 Federal Reserve issues FOMC statement（高影响）",
+    "shock_detected": false,
+    "latest_move": "2026-07-29 AUD/CNH -0.63%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.68365，开仓 07-30 01:48，止损 4.69293，止盈 4.66973",
+    "active": "看跌/SHORT @ 4.69465，开仓 07-30 00:32，止损 4.70377，止盈 4.68097",
     "recent": [
       {
         "time": "07-30 01:48",
         "direction": "看跌/SHORT",
-        "status": "持仓中",
+        "status": "已平仓",
         "entry": "4.68365",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
+        "exit": "4.69755",
+        "pnl_pct": "-0.30%",
         "reason": "AUD/USD (0.69314) below MA20 (0.69599) AND USD/CNH (6.7574) below MA20 (6.7786) → bearish…"
       },
       {
@@ -102,7 +102,7 @@
         "reason": "Mixed signals: AUD/USD above MA20 (0.69745 vs 0.69621), USD/CNH below MA20 (6.7614 vs 6.7…"
       }
     ],
-    "stats": "已平仓 22 笔，胜率 82%，平均收益 +0.67%"
+    "stats": "已平仓 23 笔，胜率 78%，平均收益 +0.63%"
   },
   "actions": {
     "refresh_url": "",
