@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 13:49 Melbourne",
+  "generated_at": "2026-07-29 16:21 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.70731",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
+  "latest_price": "4.71037",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度31%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "36%",
+      "confidence": "31%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "36%",
+      "confidence": "31%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "7D",
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-29 01:59 'Too high': RBA rates warning as inflation fears flare - The Canberra Times（高影响，Google News）。市场共识：Previous 1.4% · Investing.com。ACTB预期差：偏鸽/弱于前值…",
     "next_event": "2026-07-29 01:59 'Too high': RBA rates warning as inflation fears flare - The Canberra Times（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-29 AUD/CNH -0.42%",
+    "latest_move": "2026-07-29 AUD/CNH -0.36%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
