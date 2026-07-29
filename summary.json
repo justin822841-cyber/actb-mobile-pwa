@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30 00:32 Melbourne",
+  "generated_at": "2026-07-30 01:48 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.69495",
+  "latest_price": "4.68386",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度37%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-29 13:18 China’s PBOC Kept Its Overnight Reverse Repo Rate Steady - Finimize（高影响，Google News）。市场共识：Previous 4.260% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预…",
+    "headline": "最新AUD/CNH波动-0.92%，主导腿为AUD/USD。重点事件：2026-07-29 18:44 China Stocks Rose After PBoC Pumped In Fresh Cash - Finimize（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于前值预期，若该预期差成立…",
     "next_event": "2026-07-29 13:18 China’s PBOC Kept Its Overnight Reverse Repo Rate Steady - Finimize（高影响）",
-    "shock_detected": false,
-    "latest_move": "2026-07-29 AUD/CNH -0.68%",
+    "shock_detected": true,
+    "latest_move": "2026-07-29 AUD/CNH -0.92%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.69465，开仓 07-30 00:32，止损 4.70377，止盈 4.68097",
+    "active": "看跌/SHORT @ 4.68365，开仓 07-30 01:48，止损 4.69293，止盈 4.66973",
     "recent": [
+      {
+        "time": "07-30 01:48",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.68365",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.69314) below MA20 (0.69599) AND USD/CNH (6.7574) below MA20 (6.7786) → bearish…"
+      },
       {
         "time": "07-30 00:32",
         "direction": "看跌/SHORT",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69745 vs 0.69621), USD/CNH below MA20 (6.7614 vs 6.7…"
-      },
-      {
-        "time": "07-29 10:02",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69750 vs 0.69621), USD/CNH below MA20 (6.7614 vs 6.7…"
       }
     ],
     "stats": "已平仓 22 笔，胜率 82%，平均收益 +0.67%"
