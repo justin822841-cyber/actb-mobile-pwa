@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 10:13 Melbourne",
+  "generated_at": "2026-07-29 13:43 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.71572",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度31%。",
+  "latest_price": "4.70633",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度36%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "31%",
-      "risk": "Signal alignment is weak",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
+      "confidence": "36%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "31%",
-      "risk": "Signal alignment is weak",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
+      "confidence": "36%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度36%。"
     },
     {
       "key": "7D",
@@ -31,7 +31,7 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Signal alignment is weak",
+      "risk": "Multi-timeframe conflict is present",
       "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     },
     {
@@ -41,21 +41,30 @@
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
       "confidence": "26%",
-      "risk": "Signal alignment is weak",
+      "risk": "Multi-timeframe conflict is present",
       "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-29 03:41 Next RBA rate call hinges on crucial inflation data - The Canberra Times（高影响，Google News）。市场共识：Previous 1.4% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，…",
-    "next_event": "2026-07-29 03:41 Next RBA rate call hinges on crucial inflation data - The Canberra Times（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-29 01:59 'Too high': RBA rates warning as inflation fears flare - The Canberra Times（高影响，Google News）。市场共识：Previous 1.4% · Investing.com。ACTB预期差：偏鸽/弱于前值…",
+    "next_event": "2026-07-29 01:59 'Too high': RBA rates warning as inflation fears flare - The Canberra Times（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-29 AUD/CNH -0.25%",
+    "latest_move": "2026-07-29 AUD/CNH -0.44%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "暂无持仓",
+    "active": "看跌/SHORT @ 4.70605，开仓 07-29 13:43，止损 4.71504，止盈 4.69257",
     "recent": [
+      {
+        "time": "07-29 13:43",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.70605",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.69507) below MA20 (0.69609) AND USD/CNH (6.7710) below MA20 (6.7793) → bearish…"
+      },
       {
         "time": "07-29 10:13",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.69769 vs 0.69585), USD/CNH below MA20 (6.7609 vs 6.7…"
-      },
-      {
-        "time": "07-29 06:42",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.69769 vs 0.69585), USD/CNH below MA20 (6.7710 vs 6.7…"
       }
     ],
     "stats": "已平仓 20 笔，胜率 80%，平均收益 +0.71%"
