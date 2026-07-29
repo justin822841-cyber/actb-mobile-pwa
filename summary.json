@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30 01:48 Melbourne",
+  "generated_at": "2026-07-30 03:40 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.68386",
+  "latest_price": "4.68560",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度37%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.92%，主导腿为AUD/USD。重点事件：2026-07-29 18:44 China Stocks Rose After PBoC Pumped In Fresh Cash - Finimize（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于前值预期，若该预期差成立…",
+    "headline": "最新AUD/CNH波动-0.88%，主导腿为AUD/USD。重点事件：2026-07-29 18:44 China Stocks Rose After PBoC Pumped In Fresh Cash - Finimize（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：偏鸽/弱于前值预期，若该预期差成立…",
     "next_event": "2026-07-29 13:18 China’s PBOC Kept Its Overnight Reverse Repo Rate Steady - Finimize（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-07-29 AUD/CNH -0.92%",
+    "latest_move": "2026-07-29 AUD/CNH -0.88%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
