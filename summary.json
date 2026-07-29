@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29 21:39 Melbourne",
+  "generated_at": "2026-07-29 21:50 Melbourne",
   "data_date": "2026-07-29",
-  "latest_price": "4.69032",
+  "latest_price": "4.69006",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度37%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.78%，主导腿为AUD/USD。重点事件：2026-07-29 11:43 Australian Dollar slips as softer inflation cools domestic rate expectations - FXStreet（高影响，Google News）。市场方向已经发生重新定价，需要新闻/AI层继…",
+    "headline": "最新AUD/CNH波动-0.79%，主导腿为AUD/USD。重点事件：2026-07-29 11:43 Australian Dollar slips as softer inflation cools domestic rate expectations - FXStreet（高影响，Google News）。市场方向已经发生重新定价，需要新闻/AI层继…",
     "next_event": "2026-07-29 01:59 'Too high': RBA rates warning as inflation fears flare - The Canberra Times（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-07-29 AUD/CNH -0.78%",
+    "latest_move": "2026-07-29 AUD/CNH -0.79%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
@@ -61,7 +61,7 @@
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.70705",
-        "exit": "4.69055",
+        "exit": "4.69035",
         "pnl_pct": "+0.35%",
         "reason": "AUD/USD (0.69522) below MA20 (0.69610) AND USD/CNH (6.7710) below MA20 (6.7793) → bearish…"
       },
@@ -70,7 +70,7 @@
         "direction": "看跌/SHORT",
         "status": "已平仓",
         "entry": "4.70605",
-        "exit": "4.69055",
+        "exit": "4.69035",
         "pnl_pct": "+0.33%",
         "reason": "AUD/USD (0.69507) below MA20 (0.69609) AND USD/CNH (6.7710) below MA20 (6.7793) → bearish…"
       },
