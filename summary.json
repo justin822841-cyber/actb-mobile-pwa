@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31 08:09 Melbourne",
+  "generated_at": "2026-07-31 08:48 Melbourne",
   "data_date": "2026-07-30",
-  "latest_price": "4.74181",
+  "latest_price": "4.74248",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响，Google News）。市场共识：Previous 50.6 · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CN…",
     "next_event": "2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-30 AUD/CNH +0.41%",
+    "latest_move": "2026-07-30 AUD/CNH +0.42%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
