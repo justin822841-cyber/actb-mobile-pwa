@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-31 00:41 Melbourne",
+  "generated_at": "2026-07-31 06:41 Melbourne",
   "data_date": "2026-07-30",
-  "latest_price": "4.73177",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
+  "latest_price": "4.75033",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "35%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度55%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "55%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "35%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度55%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-30 04:00 Federal Reserve issues FOMC statement（高影响，Federal Reserve Monetary Policy）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看涨。历史参照：历史样本不足。",
-    "next_event": "2026-07-30 04:00 Federal Reserve issues FOMC statement（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响，Google News）。市场共识：Previous 50.6 · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CN…",
+    "next_event": "2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-30 AUD/CNH +0.20%",
+    "latest_move": "2026-07-30 AUD/CNH +0.59%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-31 06:41",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70328 vs 0.69691), USD/CNH below MA20 (6.7545 vs 6.7…"
+      },
       {
         "time": "07-31 00:41",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "4.70605",
         "pnl_pct": "-0.24%",
         "reason": "AUD/USD (0.69488) below MA20 (0.69608) AND USD/CNH (6.7565) below MA20 (6.7786) → bearish…"
-      },
-      {
-        "time": "07-29 13:49",
-        "direction": "看跌/SHORT",
-        "status": "已平仓",
-        "entry": "4.70705",
-        "exit": "4.69035",
-        "pnl_pct": "+0.35%",
-        "reason": "AUD/USD (0.69522) below MA20 (0.69610) AND USD/CNH (6.7710) below MA20 (6.7793) → bearish…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
