@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-31 07:33 Melbourne",
+  "generated_at": "2026-07-31 08:09 Melbourne",
   "data_date": "2026-07-30",
-  "latest_price": "4.74633",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
+  "latest_price": "4.74181",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "55%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "55%",
       "risk": "Multi-timeframe conflict is present",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "7D",
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响，Google News）。市场共识：Previous 50.6 · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CN…",
     "next_event": "2026-07-31 02:00 Executive Yuan officially recognizes Siraya - Taipei Times（中影响）",
     "shock_detected": false,
-    "latest_move": "2026-07-30 AUD/CNH +0.50%",
+    "latest_move": "2026-07-30 AUD/CNH +0.41%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "07-31 08:09",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70314 vs 0.69691), USD/CNH below MA20 (6.7438 vs 6.7…"
+      },
       {
         "time": "07-31 07:33",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70180 vs 0.69684), USD/CNH below MA20 (6.7545 vs 6.7…"
-      },
-      {
-        "time": "07-30 01:48",
-        "direction": "看跌/SHORT",
-        "status": "已平仓",
-        "entry": "4.68365",
-        "exit": "4.69755",
-        "pnl_pct": "-0.30%",
-        "reason": "AUD/USD (0.69314) below MA20 (0.69599) AND USD/CNH (6.7574) below MA20 (6.7786) → bearish…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
