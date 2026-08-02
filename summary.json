@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03 08:11 Melbourne",
-  "data_date": "2026-08-02",
-  "latest_price": "4.75254",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度41%。",
+  "generated_at": "2026-08-03 09:12 Melbourne",
+  "data_date": "2026-07-31",
+  "latest_price": "4.74551",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度55%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "41%",
-      "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度41%。"
+      "confidence": "55%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "41%",
-      "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度41%。"
+      "confidence": "55%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度55%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
-      "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "confidence": "25%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
-      "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "confidence": "25%",
+      "risk": "Multi-timeframe conflict is present",
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：…",
+    "headline": "最新AUD/CNH波动+0.78%，主导腿为AUD/USD。重点事件：2026-07-30 04:00 Federal Reserve issues FOMC statement（高影响，Federal Reserve Monetary Policy）。市场方向已经发生重新定价，需要新闻/AI层继续确认是否为预期差。预期差：偏鸽/弱于前值预期，若该预期差成…",
     "next_event": "2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响）",
-    "shock_detected": false,
-    "latest_move": "2026-08-02 AUD/CNH +0.15%",
+    "shock_detected": true,
+    "latest_move": "2026-07-31 AUD/CNH +0.78%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
