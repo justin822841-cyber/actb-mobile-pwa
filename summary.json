@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03 00:47 Melbourne",
+  "generated_at": "2026-08-03 01:30 Melbourne",
   "data_date": "2026-08-02",
   "latest_price": "4.74252",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度40%。",
@@ -46,8 +46,8 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-02 19:27 PBOC promises to adjust monetary tools and back Panda bond issuance - mezha.net（高影响，Google News）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，A…",
-    "next_event": "2026-08-02 19:27 PBOC promises to adjust monetary tools and back Panda bond issuance - mezha.net（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：…",
+    "next_event": "2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响）",
     "shock_detected": false,
     "latest_move": "2026-08-02 AUD/CNH -0.06%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
@@ -56,6 +56,15 @@
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-03 01:30",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70254 vs 0.69753), USD/CNH below MA20 (6.7505 vs 6.7…"
+      },
       {
         "time": "08-03 00:47",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70358 vs 0.69714), USD/CNH below MA20 (6.7395 vs 6.7…"
-      },
-      {
-        "time": "07-31 18:41",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70338 vs 0.69713), USD/CNH below MA20 (6.7365 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
