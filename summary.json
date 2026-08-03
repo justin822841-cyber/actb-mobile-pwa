@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-04 08:03 Melbourne",
+  "generated_at": "2026-08-04 09:20 Melbourne",
   "data_date": "2026-08-03",
-  "latest_price": "4.72404",
-  "primary_decision": "日内看跌，3天看跌；执行建议：谨慎，置信度46%。",
+  "latest_price": "4.75660",
+  "primary_decision": "日内看涨，3天看涨；执行建议：等待确认/不开新仓，置信度40%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看跌",
-      "direction_raw": "bearish",
-      "suitability": "谨慎",
-      "confidence": "46%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "40%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看跌，持有适合度为谨慎，置信度46%。"
+      "summary": "日内方向为看涨，持有适合度为等待确认/不开新仓，置信度40%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看跌",
-      "direction_raw": "bearish",
-      "suitability": "谨慎",
-      "confidence": "46%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "40%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看跌，持有适合度为谨慎，置信度46%。"
+      "summary": "3天方向为看涨，持有适合度为等待确认/不开新仓，置信度40%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "24%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度24%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "24%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度24%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-04 06:30 The RBA meets on 11 August. What could this mean for ASX bank shares? - The Motley Fool Australia（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确定，预期差…",
     "next_event": "2026-08-04 06:30 The RBA meets on 11 August. What could this mean for ASX bank shares? - The Motley Fool Australia（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-03 AUD/CNH -0.45%",
+    "latest_move": "2026-08-03 AUD/CNH +0.23%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-04 09:20",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70018 vs 0.69787), USD/CNH below MA20 (6.7509 vs 6.7…"
+      },
       {
         "time": "08-04 08:03",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70008 vs 0.69741), USD/CNH below MA20 (6.7434 vs 6.7…"
-      },
-      {
-        "time": "08-03 22:17",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70077 vs 0.69744), USD/CNH below MA20 (6.7405 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
