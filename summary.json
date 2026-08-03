@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03 10:14 Melbourne",
+  "generated_at": "2026-08-03 11:07 Melbourne",
   "data_date": "2026-08-03",
-  "latest_price": "4.75581",
+  "latest_price": "4.74996",
   "primary_decision": "日内看涨，3天看涨；执行建议：等待确认/不开新仓，置信度40%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：…",
-    "next_event": "2026-08-03 01:02 Hong Kong, CSRC deepen financial ties ahead of first yuan bond futures launch - South China Morning Post（中影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-03 10:29 PBOC is expected to set the USD/CNY reference rate at 6.7364 – Reuters estimate - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确定，预期差不明…",
+    "next_event": "2026-08-03 10:29 PBOC is expected to set the USD/CNY reference rate at 6.7364 – Reuters estimate - investingLive（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-03 AUD/CNH +0.22%",
+    "latest_move": "2026-08-03 AUD/CNH +0.09%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-03 11:07",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70432 vs 0.69762), USD/CNH below MA20 (6.7440 vs 6.7…"
+      },
       {
         "time": "08-03 10:14",
         "direction": "中性",
@@ -85,15 +94,6 @@
       },
       {
         "time": "08-03 03:45",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70254 vs 0.69753), USD/CNH below MA20 (6.7448 vs 6.7…"
-      },
-      {
-        "time": "08-03 02:38",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
