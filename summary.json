@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 09:20 Melbourne",
+  "generated_at": "2026-08-04 09:35 Melbourne",
   "data_date": "2026-08-03",
   "latest_price": "4.75660",
   "primary_decision": "日内看涨，3天看涨；执行建议：等待确认/不开新仓，置信度40%。",
@@ -57,6 +57,15 @@
     "active": "暂无持仓",
     "recent": [
       {
+        "time": "08-04 09:35",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70008 vs 0.69786), USD/CNH below MA20 (6.7509 vs 6.7…"
+      },
+      {
         "time": "08-04 09:20",
         "direction": "中性",
         "status": "未开仓",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70023 vs 0.69742), USD/CNH below MA20 (6.7518 vs 6.7…"
-      },
-      {
-        "time": "08-04 02:42",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70008 vs 0.69741), USD/CNH below MA20 (6.7434 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
