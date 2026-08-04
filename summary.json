@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05 06:50 Melbourne",
+  "generated_at": "2026-08-05 08:07 Melbourne",
   "data_date": "2026-08-04",
-  "latest_price": "4.75978",
+  "latest_price": "4.75097",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-05 06:00 RBA done hiking? 8 ASX stocks UBS likes as a rate-relief play - Livewire Markets（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确定，预期差不明确，暂不单独提高方向权重。历史…",
     "next_event": "2026-08-05 06:00 RBA done hiking? 8 ASX stocks UBS likes as a rate-relief play - Livewire Markets（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-04 AUD/CNH +0.07%",
+    "latest_move": "2026-08-04 AUD/CNH -0.12%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-05 08:07",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70487 vs 0.69810), USD/CNH below MA20 (6.7402 vs 6.7…"
+      },
       {
         "time": "08-05 06:50",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70304 vs 0.69801), USD/CNH below MA20 (6.7418 vs 6.7…"
-      },
-      {
-        "time": "08-04 20:20",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70294 vs 0.69801), USD/CNH below MA20 (6.7416 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
