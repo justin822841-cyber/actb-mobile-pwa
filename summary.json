@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06 08:54 Melbourne",
+  "generated_at": "2026-08-06 09:19 Melbourne",
   "data_date": "2026-08-05",
-  "latest_price": "4.75868",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度52%。",
+  "latest_price": "4.75878",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "52%",
+      "confidence": "50%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度52%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度50%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "52%",
+      "confidence": "50%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度52%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度50%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "24%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度24%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "27%",
+      "confidence": "24%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度27%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度24%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - The Guardian（高影响，Google News）。市场共识：市场预期…",
     "next_event": "2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - The Guardian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-05 AUD/CNH +0.71%",
+    "latest_move": "2026-08-05 AUD/CNH +0.72%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-06 09:18",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70597 vs 0.69908), USD/CNH below MA20 (6.7532 vs 6.7…"
+      },
       {
         "time": "08-06 07:44",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70442 vs 0.69846), USD/CNH below MA20 (6.7378 vs 6.7…"
-      },
-      {
-        "time": "08-05 20:17",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70462 vs 0.69847), USD/CNH below MA20 (6.7373 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
