@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06 15:19 Melbourne",
+  "generated_at": "2026-08-06 18:01 Melbourne",
   "data_date": "2026-08-06",
-  "latest_price": "4.75555",
+  "latest_price": "4.75197",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度50%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - The Guardian（高影响，Google News）。市场共识：市场预期…",
-    "next_event": "2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - The Guardian（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - theguardian.com（高影响，Google News）。市场共识：市…",
+    "next_event": "2026-08-06 08:25 The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do - theguardian.com（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-06 AUD/CNH -0.07%",
+    "latest_move": "2026-08-06 AUD/CNH -0.14%",
     "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
