@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-07 22:48 Melbourne",
-  "data_date": "2026-08-07",
-  "latest_price": "4.76846",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度58%。",
+  "generated_at": "2026-08-10 01:47 Melbourne",
+  "data_date": "2026-08-09",
+  "latest_price": "4.77035",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "58%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "35%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度58%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "看涨",
-      "direction_raw": "bullish",
-      "suitability": "谨慎",
-      "confidence": "58%",
+      "direction": "中性",
+      "direction_raw": "neutral",
+      "suitability": "等待确认/不开新仓",
+      "confidence": "35%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度58%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "26%",
+      "confidence": "25%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度26%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度25%。"
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-07 04:55 Australian Dollar Forecast: Bulls Lose Momentum As RBA, Commodities Weigh - Bitcoin World（高影响，Google News）。市场共识：Forecast 5.9% · Previous 5.9% ·…",
-    "next_event": "2026-08-07 04:55 Australian Dollar Forecast: Bulls Lose Momentum As RBA, Commodities Weigh - Bitcoin World（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-09 18:29 Domestic inflation ‘a key risk’ for RBA - The Australian（高影响，Google News）。市场共识：Forecast 0.2% · Previous -0.3% · Investing.com。ACTB预期差：偏鹰/强于前值预期…",
+    "next_event": "2026-08-09 18:29 Domestic inflation ‘a key risk’ for RBA - The Australian（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-07 AUD/CNH +0.10%",
-    "historical": "类似事件样本 29，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-08-09 AUD/CNH +0.50%",
+    "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-10 01:47",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70706 vs 0.70016), USD/CNH below MA20 (6.7467 vs 6.7…"
+      },
       {
         "time": "08-07 22:48",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70393 vs 0.69955), USD/CNH below MA20 (6.7369 vs 6.7…"
-      },
-      {
-        "time": "08-07 20:35",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70403 vs 0.69955), USD/CNH below MA20 (6.7369 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
