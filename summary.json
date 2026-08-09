@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 03:48 Melbourne",
+  "generated_at": "2026-08-10 04:37 Melbourne",
   "data_date": "2026-08-09",
   "latest_price": "4.76363",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
@@ -46,8 +46,8 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-09 15:18 RBA should defy the markets and not miss opportunity to raise rates - AFR（高影响，Google News）。市场共识：Forecast 0.2% · Previous -0.3% · Investing.com。…",
-    "next_event": "2026-08-09 15:18 RBA should defy the markets and not miss opportunity to raise rates - AFR（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-09 16:00 RBA interest rate relief this week could be brief as Australians told to 'buckle up' - Yahoo Finance Australia（高影响，Google News）。市场共识：Forecast 0…",
+    "next_event": "2026-08-09 16:00 RBA interest rate relief this week could be brief as Australians told to 'buckle up' - Yahoo Finance Australia（高影响）",
     "shock_detected": false,
     "latest_move": "2026-08-09 AUD/CNH +0.36%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
@@ -56,6 +56,15 @@
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-10 04:37",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70706 vs 0.70016), USD/CNH below MA20 (6.7372 vs 6.7…"
+      },
       {
         "time": "08-10 03:48",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70418 vs 0.69956), USD/CNH below MA20 (6.7370 vs 6.7…"
-      },
-      {
-        "time": "08-07 21:32",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70393 vs 0.69955), USD/CNH below MA20 (6.7370 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
