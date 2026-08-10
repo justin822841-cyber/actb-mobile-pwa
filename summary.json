@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11 06:36 Melbourne",
+  "generated_at": "2026-08-11 07:36 Melbourne",
   "data_date": "2026-08-10",
-  "latest_price": "4.75917",
+  "latest_price": "4.75455",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度34%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-11 04:48 The RBA's big challenge: How to navigate a real estate downturn - ABC News & Headlines – Australian Broadcasting Corporation（高影响，Google News）。市…",
-    "next_event": "2026-08-11 04:48 The RBA's big challenge: How to navigate a real estate downturn - ABC News & Headlines – Australian Broadcasting Corporation（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-11 04:48 Will the RBA blink on inflation as the property market slows? - ABC News & Headlines – Australian Broadcasting Corporation（高影响，Google News）。市场共…",
+    "next_event": "2026-08-11 04:48 Will the RBA blink on inflation as the property market slows? - ABC News & Headlines – Australian Broadcasting Corporation（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-10 AUD/CNH +0.26%",
+    "latest_move": "2026-08-10 AUD/CNH +0.17%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-11 07:36",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70572 vs 0.70009), USD/CNH below MA20 (6.7372 vs 6.7…"
+      },
       {
         "time": "08-11 06:35",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70607 vs 0.70011), USD/CNH below MA20 (6.7345 vs 6.7…"
-      },
-      {
-        "time": "08-11 04:35",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70592 vs 0.70010), USD/CNH below MA20 (6.7447 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
