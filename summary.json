@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12 19:39 Melbourne",
+  "generated_at": "2026-08-12 20:43 Melbourne",
   "data_date": "2026-08-12",
-  "latest_price": "4.76582",
+  "latest_price": "4.76711",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度63%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-12 05:00 RBA takes on another heritage office renovation - AFR（高影响，Google News）。市场共识：Previous 4.179% · Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/CNH偏看…",
     "next_event": "2026-08-12 05:00 RBA takes on another heritage office renovation - AFR（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-12 AUD/CNH +0.11%",
+    "latest_move": "2026-08-12 AUD/CNH +0.14%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-12 20:43",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70701 vs 0.70128), USD/CNH below MA20 (6.7426 vs 6.7…"
+      },
       {
         "time": "08-12 19:39",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70592 vs 0.70122), USD/CNH below MA20 (6.7456 vs 6.7…"
-      },
-      {
-        "time": "08-12 13:35",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70616 vs 0.70124), USD/CNH below MA20 (6.7452 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
