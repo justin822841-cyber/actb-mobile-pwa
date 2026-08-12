@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12 21:33 Melbourne",
+  "generated_at": "2026-08-12 21:43 Melbourne",
   "data_date": "2026-08-12",
-  "latest_price": "4.76015",
+  "latest_price": "4.76048",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度56%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-12 04:51 The RBA holds rates, but leaves future hikes on the table - Australian Broker（高影响，Google News）。市场共识：Previous 4.179% · Investing.com。ACTB预期差：偏鸽/…",
     "next_event": "2026-08-12 04:51 The RBA holds rates, but leaves future hikes on the table - Australian Broker（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-12 AUD/CNH -0.01%",
+    "latest_move": "2026-08-12 AUD/CNH +0.00%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-12 21:43",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70716 vs 0.70129), USD/CNH below MA20 (6.7318 vs 6.7…"
+      },
       {
         "time": "08-12 21:33",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70681 vs 0.70127), USD/CNH below MA20 (6.7422 vs 6.7…"
-      },
-      {
-        "time": "08-12 16:05",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70616 vs 0.70124), USD/CNH below MA20 (6.7456 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
