@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12 11:20 Melbourne",
+  "generated_at": "2026-08-12 12:45 Melbourne",
   "data_date": "2026-08-12",
-  "latest_price": "4.76542",
+  "latest_price": "4.76322",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度63%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-12 07:28 The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - The Guardian（高影响，Google News…",
-    "next_event": "2026-08-12 07:28 The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - The Guardian（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-12 04:51 The RBA holds rates, but leaves future hikes on the table - Australian Broker（高影响，Google News）。市场共识：Previous 4.179% · Investing.com。ACTB预期差：偏鸽/…",
+    "next_event": "2026-08-12 04:51 The RBA holds rates, but leaves future hikes on the table - Australian Broker（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-12 AUD/CNH +0.10%",
+    "latest_move": "2026-08-12 AUD/CNH +0.06%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
