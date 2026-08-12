@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-13 08:35 Melbourne",
+  "generated_at": "2026-08-13 09:24 Melbourne",
   "data_date": "2026-08-12",
-  "latest_price": "4.75841",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度40%。",
+  "latest_price": "4.76467",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度63%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "40%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "63%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度40%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度63%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "40%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "63%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度40%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度63%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "31%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "30D",
@@ -40,16 +40,16 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "31%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-13 00:21 Australian Data Gauntlet Arrives with RBA Hike Pricing Looking Thin - StoneX（高影响，Google News）。市场共识：Investing.com。ACTB预期差：偏鸽/弱于前值预期，若该预期差成立，AUD/…",
     "next_event": "2026-08-13 00:21 Australian Data Gauntlet Arrives with RBA Hike Pricing Looking Thin - StoneX（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-12 AUD/CNH -0.04%",
+    "latest_move": "2026-08-12 AUD/CNH +0.09%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
