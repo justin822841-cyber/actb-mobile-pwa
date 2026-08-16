@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-17 09:14 Melbourne",
-  "data_date": "2026-08-14",
-  "latest_price": "4.76291",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
+  "generated_at": "2026-08-17 09:35 Melbourne",
+  "data_date": "2026-08-17",
+  "latest_price": "4.77292",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度56%。",
   "horizons": [
     {
       "key": "Daily",
       "label": "日内",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "56%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度56%。"
     },
     {
       "key": "3D",
       "label": "3天",
-      "direction": "中性",
-      "direction_raw": "neutral",
-      "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "direction": "看涨",
+      "direction_raw": "bullish",
+      "suitability": "谨慎",
+      "confidence": "56%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度56%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "31%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "30%",
+      "confidence": "31%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度30%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度31%。"
     }
   ],
   "macro": {
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-14 AUD/CNH -0.01%",
+    "latest_move": "2026-08-17 AUD/CNH +0.20%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-17 09:35",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70897 vs 0.70198), USD/CNH below MA20 (6.7322 vs 6.7…"
+      },
       {
         "time": "08-17 09:14",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70852 vs 0.70195), USD/CNH below MA20 (6.7322 vs 6.7…"
-      },
-      {
-        "time": "08-17 07:35",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70852 vs 0.70238), USD/CNH below MA20 (6.7322 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
