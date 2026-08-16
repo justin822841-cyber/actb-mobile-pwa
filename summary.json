@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17 05:43 Melbourne",
+  "generated_at": "2026-08-17 06:38 Melbourne",
   "data_date": "2026-08-16",
-  "latest_price": "4.77495",
+  "latest_price": "4.77292",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度56%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-16 AUD/CNH +0.25%",
+    "latest_move": "2026-08-16 AUD/CNH +0.21%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-17 06:38",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.70897 vs 0.70240), USD/CNH below MA20 (6.7322 vs 6.7…"
+      },
       {
         "time": "08-17 05:43",
         "direction": "中性",
@@ -85,15 +94,6 @@
       },
       {
         "time": "08-17 03:44",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70867 vs 0.70239), USD/CNH below MA20 (6.7322 vs 6.7…"
-      },
-      {
-        "time": "08-17 03:35",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
