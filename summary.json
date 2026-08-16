@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17 08:46 Melbourne",
+  "generated_at": "2026-08-17 08:59 Melbourne",
   "data_date": "2026-08-16",
-  "latest_price": "4.77258",
+  "latest_price": "4.77326",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度56%。",
   "horizons": [
     {
@@ -49,7 +49,7 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-16 AUD/CNH +0.20%",
+    "latest_move": "2026-08-16 AUD/CNH +0.22%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
