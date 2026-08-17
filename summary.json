@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 17:00 Melbourne",
+  "generated_at": "2026-08-17 17:17 Melbourne",
   "data_date": "2026-08-17",
-  "latest_price": "4.80044",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度57%。",
+  "latest_price": "4.79983",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度62%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "57%",
+      "confidence": "62%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度57%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度62%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "57%",
+      "confidence": "62%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度57%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度62%。"
     },
     {
       "key": "7D",
@@ -46,7 +46,7 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.78%，主导腿为AUD/USD。重点事件：2026-08-17 10:23 PBoC is expected to set USD/CNY mid-point at 6.7382 (prev. 6.7878) - Newsquawk（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差…",
+    "headline": "最新AUD/CNH波动+0.78%，主导腿为AUD/USD。重点事件：2026-08-17 10:23 PBoC is expected to set USD/CNY mid-point at 6.7382 (prev. 6.7878) - newsquawk.com（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": true,
     "latest_move": "2026-08-17 AUD/CNH +0.78%",
@@ -56,6 +56,15 @@
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-17 17:16",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71235 vs 0.70257), USD/CNH below MA20 (6.7380 vs 6.7…"
+      },
       {
         "time": "08-17 17:00",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.71048 vs 0.70248), USD/CNH below MA20 (6.7407 vs 6.7…"
-      },
-      {
-        "time": "08-17 14:11",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.71053 vs 0.70248), USD/CNH below MA20 (6.7411 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
