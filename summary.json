@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17 17:17 Melbourne",
+  "generated_at": "2026-08-17 17:57 Melbourne",
   "data_date": "2026-08-17",
-  "latest_price": "4.79983",
+  "latest_price": "4.79969",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度62%。",
   "horizons": [
     {
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.78%，主导腿为AUD/USD。重点事件：2026-08-17 10:23 PBoC is expected to set USD/CNY mid-point at 6.7382 (prev. 6.7878) - newsquawk.com（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认…",
+    "headline": "最新AUD/CNH波动+0.77%，主导腿为AUD/USD。重点事件：2026-08-17 17:34 ‘Unhelpful passivity’: RBA’s inflation strategy criticised by former officials - AFR（高影响，Google News）。市场反应更像“澳洲数据强/偏鹰派”，通常支持AUD…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-08-17 AUD/CNH +0.78%",
-    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-08-17 AUD/CNH +0.77%",
+    "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
