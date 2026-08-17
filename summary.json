@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17 18:36 Melbourne",
+  "generated_at": "2026-08-17 19:35 Melbourne",
   "data_date": "2026-08-17",
-  "latest_price": "4.80001",
+  "latest_price": "4.80084",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度62%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.78%，主导腿为AUD/USD。重点事件：2026-08-17 10:08 PBOC is expected to set the USD/CNY reference rate at 6.7382 – Reuters estimate - investingLive（高影响，Google News）。该事件主要影响人民币腿，需要…",
+    "headline": "最新AUD/CNH波动+0.80%，主导腿为AUD/USD。重点事件：2026-08-17 11:15 PBOC sets USD/CNY reference rate at 6.7873 vs. 6.7878 previous - FXStreet（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认。预期差：不确定，…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-08-17 AUD/CNH +0.78%",
+    "latest_move": "2026-08-17 AUD/CNH +0.80%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-17 19:35",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71256 vs 0.70258), USD/CNH below MA20 (6.7375 vs 6.7…"
+      },
       {
         "time": "08-17 18:36",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.71159 vs 0.70253), USD/CNH below MA20 (6.7388 vs 6.7…"
-      },
-      {
-        "time": "08-17 15:51",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.71159 vs 0.70253), USD/CNH below MA20 (6.7393 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
