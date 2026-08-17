@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 21:21 Melbourne",
+  "generated_at": "2026-08-17 21:41 Melbourne",
   "data_date": "2026-08-17",
-  "latest_price": "4.80278",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度64%。",
+  "latest_price": "4.79433",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度57%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "64%",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度64%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "64%",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度64%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "7D",
@@ -30,9 +30,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "34%",
+      "confidence": "32%",
       "risk": "Signal alignment is weak",
-      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度34%。"
+      "summary": "7天方向为中性，持有适合度为等待确认/不开新仓，置信度32%。"
     },
     {
       "key": "30D",
@@ -40,22 +40,31 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "34%",
+      "confidence": "32%",
       "risk": "Signal alignment is weak",
-      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度34%。"
+      "summary": "30天方向为中性，持有适合度为等待确认/不开新仓，置信度32%。"
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动+0.84%，主导腿为AUD/USD。重点事件：2026-08-17 10:23 PBoC is expected to set USD/CNY mid-point at 6.7382 (prev. 6.7878) - newsquawk.com（高影响，Google News）。该事件主要影响人民币腿，需要结合USD/CNH变化确认…",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响，Google News）。市场共识：市场预期待抓取。ACTB预期差：不确…",
     "next_event": "2026-08-17 02:47 RBA leaves cash rate unchanged at 4.35% in August monetary policy meeting, as expected - investingLive（高影响）",
-    "shock_detected": true,
-    "latest_move": "2026-08-17 AUD/CNH +0.84%",
-    "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "shock_detected": false,
+    "latest_move": "2026-08-17 AUD/CNH +0.65%",
+    "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-17 21:41",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71266 vs 0.70216), USD/CNH below MA20 (6.7274 vs 6.7…"
+      },
       {
         "time": "08-17 21:21",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.71256 vs 0.70258), USD/CNH below MA20 (6.7375 vs 6.7…"
-      },
-      {
-        "time": "08-17 18:36",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.71245 vs 0.70257), USD/CNH below MA20 (6.7373 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
