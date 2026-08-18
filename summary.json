@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18 10:52 Melbourne",
+  "generated_at": "2026-08-18 11:51 Melbourne",
   "data_date": "2026-08-18",
-  "latest_price": "4.79263",
+  "latest_price": "4.79421",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度72%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-08-18 01:00 PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430) - investinglive.com（高影响，Google News）。市场共识：expected to set the USD/CNY ref…",
     "next_event": "2026-08-18 01:00 PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430) - investinglive.com（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-08-18 AUD/CNH +0.32%",
+    "latest_move": "2026-08-18 AUD/CNH +0.35%",
     "historical": "类似事件样本 0，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-18 11:51",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71109 vs 0.70293), USD/CNH below MA20 (6.7421 vs 6.7…"
+      },
       {
         "time": "08-18 10:52",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.71088 vs 0.70292), USD/CNH below MA20 (6.7428 vs 6.7…"
-      },
-      {
-        "time": "08-18 08:41",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.71078 vs 0.70249), USD/CNH below MA20 (6.7394 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
