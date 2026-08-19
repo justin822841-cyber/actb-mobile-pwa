@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 13:12 Melbourne",
+  "generated_at": "2026-08-19 13:25 Melbourne",
   "data_date": "2026-08-19",
-  "latest_price": "4.77058",
-  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
+  "latest_price": "4.77085",
+  "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度40%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "confidence": "40%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "日内方向为中性，持有适合度为等待确认/不开新仓，置信度40%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "中性",
       "direction_raw": "neutral",
       "suitability": "等待确认/不开新仓",
-      "confidence": "35%",
+      "confidence": "40%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度35%。"
+      "summary": "3天方向为中性，持有适合度为等待确认/不开新仓，置信度40%。"
     },
     {
       "key": "7D",
