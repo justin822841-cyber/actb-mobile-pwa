@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 01:46 Melbourne",
+  "generated_at": "2026-08-20 02:47 Melbourne",
   "data_date": "2026-08-19",
-  "latest_price": "4.78804",
-  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度72%。",
+  "latest_price": "4.78788",
+  "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度57%。",
   "horizons": [
     {
       "key": "Daily",
@@ -10,9 +10,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "72%",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "日内方向为看涨，持有适合度为谨慎，置信度72%。"
+      "summary": "日内方向为看涨，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "3D",
@@ -20,9 +20,9 @@
       "direction": "看涨",
       "direction_raw": "bullish",
       "suitability": "谨慎",
-      "confidence": "72%",
+      "confidence": "57%",
       "risk": "Signal alignment is weak",
-      "summary": "3天方向为看涨，持有适合度为谨慎，置信度72%。"
+      "summary": "3天方向为看涨，持有适合度为谨慎，置信度57%。"
     },
     {
       "key": "7D",
@@ -56,6 +56,15 @@
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "08-20 02:47",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71276 vs 0.70355), USD/CNH below MA20 (6.7174 vs 6.7…"
+      },
       {
         "time": "08-20 01:46",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.70837 vs 0.70333), USD/CNH below MA20 (6.7263 vs 6.7…"
-      },
-      {
-        "time": "08-19 22:01",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.70766 vs 0.70298), USD/CNH below MA20 (6.7372 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
