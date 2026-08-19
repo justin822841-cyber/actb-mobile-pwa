@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 14:07 Melbourne",
+  "generated_at": "2026-08-19 15:01 Melbourne",
   "data_date": "2026-08-19",
   "latest_price": "4.76871",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度35%。",
@@ -57,7 +57,7 @@
     "active": "暂无持仓",
     "recent": [
       {
-        "time": "08-19 14:07",
+        "time": "08-19 15:01",
         "direction": "中性",
         "status": "未开仓",
         "entry": "—",
