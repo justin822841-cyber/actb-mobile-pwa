@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01 16:08 Melbourne",
+  "generated_at": "2026-09-01 16:11 Melbourne",
   "data_date": "2026-09-01",
-  "latest_price": "4.81996",
+  "latest_price": "4.82037",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度40%。",
   "horizons": [
     {
@@ -46,10 +46,10 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-09-01 05:44 RBA dials-up fret factor on economic and cyber risks of AI - The Mandarin（高影响，Google News）。市场共识：Forecast 51.0 · Previous 50.9 · Forex Factory。A…",
-    "next_event": "2026-09-01 05:44 RBA dials-up fret factor on economic and cyber risks of AI - The Mandarin（高影响）",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-09-01 06:37 Australian Dollar Holds Firm as Hawkish Fed, RBA Expectations Converge - CryptoRank（高影响，Google News）。市场共识：Forecast 51.0 · Previous 50.9 · Forex…",
+    "next_event": "2026-09-01 06:37 Australian Dollar Holds Firm as Hawkish Fed, RBA Expectations Converge - CryptoRank（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-09-01 AUD/CNH +0.04%",
+    "latest_move": "2026-09-01 AUD/CNH +0.05%",
     "historical": "类似事件样本 34，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
