@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07 08:55 Melbourne",
-  "data_date": "2026-09-06",
-  "latest_price": "4.83660",
+  "generated_at": "2026-09-07 09:05 Melbourne",
+  "data_date": "2026-09-04",
+  "latest_price": "4.83855",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度75%。",
   "horizons": [
     {
@@ -46,11 +46,11 @@
     }
   ],
   "macro": {
-    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-09-10 22:30 Core PPI m/m（高影响，Forex Factory）。市场共识：Forecast 0.3% · Previous 0.2% · Forex Factory。ACTB预期差：偏鹰/强于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去392次类似other强于预期事…",
+    "headline": "当前未触发大幅波动阈值，下一重点事件是2026-09-10 22:30 Core PPI m/m（高影响，Forex Factory）。市场共识：Forecast 0.3% · Previous 0.2% · Forex Factory。ACTB预期差：偏鹰/强于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去391次类似other强于预期事…",
     "next_event": "2026-09-10 22:30 Core PPI m/m（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-09-06 AUD/CNH -0.04%",
-    "historical": "类似事件样本 392，平均 —，上涨 — / 下跌 —，倾向 中性",
+    "latest_move": "2026-09-04 AUD/CNH +0.53%",
+    "historical": "类似事件样本 391，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
