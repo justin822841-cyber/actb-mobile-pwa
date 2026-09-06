@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-07 00:46 Melbourne",
+  "generated_at": "2026-09-07 04:40 Melbourne",
   "data_date": "2026-09-06",
-  "latest_price": "4.83522",
+  "latest_price": "4.83486",
   "primary_decision": "日内看涨，3天看涨；执行建议：谨慎，置信度74%。",
   "horizons": [
     {
@@ -49,13 +49,22 @@
     "headline": "当前未触发大幅波动阈值，下一重点事件是2026-09-10 22:30 Core PPI m/m（高影响，Forex Factory）。市场共识：Forecast 0.3% · Previous 0.2% · Forex Factory。ACTB预期差：偏鹰/强于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去392次类似other强于预期事…",
     "next_event": "2026-09-10 22:30 Core PPI m/m（高影响）",
     "shock_detected": false,
-    "latest_move": "2026-09-06 AUD/CNH -0.07%",
+    "latest_move": "2026-09-06 AUD/CNH -0.08%",
     "historical": "类似事件样本 392，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "09-07 04:39",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.72051 vs 0.71344), USD/CNH below MA20 (6.7103 vs 6.7…"
+      },
       {
         "time": "09-07 00:45",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.72082 vs 0.71276), USD/CNH below MA20 (6.7006 vs 6.7…"
-      },
-      {
-        "time": "09-04 15:20",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.72129 vs 0.71279), USD/CNH below MA20 (6.7153 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
