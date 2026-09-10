@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10 23:46 Melbourne",
+  "generated_at": "2026-09-11 08:11 Melbourne",
   "data_date": "2026-09-10",
-  "latest_price": "4.80173",
+  "latest_price": "4.80069",
   "primary_decision": "日内中性，3天中性；执行建议：等待确认/不开新仓，置信度33%。",
   "horizons": [
     {
@@ -46,16 +46,25 @@
     }
   ],
   "macro": {
-    "headline": "最新AUD/CNH波动-0.90%，主导腿为AUD/USD。重点事件：2026-09-10 22:30 PPI m/m（高影响，Forex Factory）。市场反应更像“美国数据强/偏鹰派”，通常支持美元并压低AUD/CNH。预期差：偏鹰/强于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去383次类似other强于预期事件，事件公布当天平…",
-    "next_event": "2026-09-10 22:30 PPI m/m（高影响）",
+    "headline": "最新AUD/CNH波动-0.92%，主导腿为AUD/USD。重点事件：2026-09-10 22:30 PPI m/m（高影响，Forex Factory）。市场反应更像“美国数据强/偏鹰派”，通常支持美元并压低AUD/CNH。预期差：偏鹰/强于前值预期，若该预期差成立，AUD/CNH偏看跌。历史参照：过去383次类似other强于预期事件，事件公布当天平…",
+    "next_event": "2026-09-11 22:30 CPI m/m（高影响）",
     "shock_detected": true,
-    "latest_move": "2026-09-10 AUD/CNH -0.90%",
+    "latest_move": "2026-09-10 AUD/CNH -0.92%",
     "historical": "类似事件样本 383，平均 —，上涨 — / 下跌 —，倾向 中性",
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
     "active": "暂无持仓",
     "recent": [
+      {
+        "time": "09-11 08:11",
+        "direction": "中性",
+        "status": "未开仓",
+        "entry": "—",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "Mixed signals: AUD/USD above MA20 (0.71592 vs 0.71553), USD/CNH below MA20 (6.7056 vs 6.7…"
+      },
       {
         "time": "09-10 23:46",
         "direction": "中性",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.72213 vs 0.71584), USD/CNH below MA20 (6.7070 vs 6.7…"
-      },
-      {
-        "time": "09-10 11:29",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.72134 vs 0.71580), USD/CNH below MA20 (6.6984 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
