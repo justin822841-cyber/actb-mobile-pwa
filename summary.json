@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 10:11 Melbourne",
+  "generated_at": "2026-09-11 10:20 Melbourne",
   "data_date": "2026-09-10",
   "latest_price": "4.84558",
   "primary_decision": "日内冲突/观望，3天冲突/观望；执行建议：等待确认/不开新仓，置信度59%。",
@@ -54,8 +54,17 @@
     "expectation": "预期差暂不明确"
   },
   "paper_trading": {
-    "active": "看跌/SHORT @ 4.84535，开仓 09-11 10:11，止损 4.85459，止盈 4.83149",
+    "active": "看跌/SHORT @ 4.84535，开仓 09-11 10:19，止损 4.85459，止盈 4.83149",
     "recent": [
+      {
+        "time": "09-11 10:19",
+        "direction": "看跌/SHORT",
+        "status": "持仓中",
+        "entry": "4.84535",
+        "exit": "—",
+        "pnl_pct": "+0.00%",
+        "reason": "AUD/USD (0.71618) below MA20 (0.71633) AND USD/CNH (6.7105) below MA20 (6.7241) → bearish…"
+      },
       {
         "time": "09-11 10:11",
         "direction": "看跌/SHORT",
@@ -91,15 +100,6 @@
         "exit": "—",
         "pnl_pct": "+0.00%",
         "reason": "Mixed signals: AUD/USD above MA20 (0.71984 vs 0.71573), USD/CNH below MA20 (6.6966 vs 6.7…"
-      },
-      {
-        "time": "09-10 16:39",
-        "direction": "中性",
-        "status": "未开仓",
-        "entry": "—",
-        "exit": "—",
-        "pnl_pct": "+0.00%",
-        "reason": "Mixed signals: AUD/USD above MA20 (0.72176 vs 0.71582), USD/CNH below MA20 (6.7064 vs 6.7…"
       }
     ],
     "stats": "已平仓 24 笔，胜率 75%，平均收益 +0.59%"
